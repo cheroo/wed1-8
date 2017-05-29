@@ -37,7 +37,7 @@ body{
   float: left;
   width: 156px;
   border-right: white 1px solid;
-  list-style-type: mone;
+  list-style-type: none;
 }
 
 #gnav li:first-child{
