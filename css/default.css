@@ -11,10 +11,6 @@ body{
   list-style-type: none;
 }
 
-#logo ul{
-  overflow: hidden;
-}
-
 #logo img{
   width: 100px;
 }
